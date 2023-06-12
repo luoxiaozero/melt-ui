@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+
+.components-page-box {
+    display: flex;
+}
+
+.components-page-box aside {
+    width: 260px;
+}
+
+.components-page-box main {
+    flex: 1;
+}
